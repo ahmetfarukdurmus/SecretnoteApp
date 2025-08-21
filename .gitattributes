@@ -1,0 +1,12 @@
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+*.cpp linguist-detectable=false
+*.hpp linguist-detectable=false
+
+*.exe linguist-detectable=false
+*.dll linguist-detectable=false
+*.out linguist-detectable=false
+
+*.g.dart linguist-generated=true
+
+*.py linguist-language=Python
